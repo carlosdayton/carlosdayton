@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Carlos Dayton
 
 - 🔭 Atualmente trabalho como suporte
-- 🌱 Estudando back-end com Go e NodeJS
+- 🌱 Estudando back-end com Go e Java
 - 👯 Estudando CyberSecurity
 
 <div>
