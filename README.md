@@ -75,6 +75,16 @@ const carlos = {
 
 ---
 
+## 🏆 Troféus GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=carlosdayton&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+</div>
+
+---
+
 ## 📈 Gráfico de Atividade
 
 <div align="center">
@@ -103,7 +113,10 @@ const carlos = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdayton&repo=Estudos-Cursinho&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/carlosdayton/Estudos-Cursinho)
+[![Estudos-Cursinho](https://github-readme-stats.vercel.app/api/pin/?username=carlosdayton&repo=Estudos-Cursinho&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/carlosdayton/Estudos-Cursinho)
+[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=carlosdayton&repo=portf%C3%B3lio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/carlosdayton/portf%C3%B3lio)
+
+[![biblioteca-filosofica](https://github-readme-stats.vercel.app/api/pin/?username=carlosdayton&repo=biblioteca-filosofica&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/carlosdayton/biblioteca-filosofica)
 
 </div>
 
