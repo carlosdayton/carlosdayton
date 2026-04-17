@@ -114,7 +114,7 @@ const carlos = {
 <div align="center">
 
 [![Estudos-Cursinho](https://github-readme-stats.vercel.app/api/pin/?username=carlosdayton&repo=Estudos-Cursinho&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/carlosdayton/Estudos-Cursinho)
-[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=carlosdayton&repo=portf%C3%B3lio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/carlosdayton/portf%C3%B3lio)
+[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=carlosdayton&repo=portf%C3%B3lio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/carlosdayton/portfolio)
 
 [![biblioteca-filosofica](https://github-readme-stats.vercel.app/api/pin/?username=carlosdayton&repo=biblioteca-filosofica&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/carlosdayton/biblioteca-filosofica)
 
