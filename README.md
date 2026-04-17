@@ -77,11 +77,7 @@ const carlos = {
 
 ## 🏆 Troféus GitHub
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=carlosdayton&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=carlosdayton&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 ---
 
